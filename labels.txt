@@ -1,0 +1,11 @@
+# Label mapping
+id2label = {
+    0: "Casual",
+    1: "Ethnic",
+    2: "Formal",
+    3: "Home",
+    4: "Party",
+    5: "Smart Casual",
+    6: "Sports",
+    7: "Travel"
+}
